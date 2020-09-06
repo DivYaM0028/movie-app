@@ -8,7 +8,7 @@ function App() {
         <div className="main">
           <div className="tabs">
             <div className="tabs">Movies</div>
-            <div className="tabs">Fav</div>
+            <div className="tabs">Favourites</div>
           </div>
 
             <div className="list">
