@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './Navbar';
+
 class Navbar extends React.Component {
   render(){
     return (
     <div className="nav">
-        <div className='search-container'>
+        <div className="search-container">
             <input/>
             <button id="search-btn">Search</button> 
         </div>
